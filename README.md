@@ -2,4 +2,9 @@
 ## morning github repo 2026
 ### next level
 
-- plain text
+- Mon
+- Tue
+- Wed
+## - Thu
+- Fri
+
